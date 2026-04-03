@@ -1,0 +1,14 @@
+C:\Users\Shiva\source\repos\programs\programs\bin\Debug\net8.0\programs.exe
+C:\Users\Shiva\source\repos\programs\programs\bin\Debug\net8.0\programs.deps.json
+C:\Users\Shiva\source\repos\programs\programs\bin\Debug\net8.0\programs.runtimeconfig.json
+C:\Users\Shiva\source\repos\programs\programs\bin\Debug\net8.0\programs.dll
+C:\Users\Shiva\source\repos\programs\programs\bin\Debug\net8.0\programs.pdb
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.AssemblyInfoInputs.cache
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.AssemblyInfo.cs
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.csproj.CoreCompileInputs.cache
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.dll
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\refint\programs.dll
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.pdb
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.genruntimeconfig.cache
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\ref\programs.dll
