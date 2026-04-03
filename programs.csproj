@@ -9,12 +9,14 @@
 
   <ItemGroup>
     <Compile Remove="cdir.cs" />
+    <Compile Remove="Fact5.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="Program1.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="cdir.cs" />
+    <None Include="Fact5.cs" />
     <None Include="Program.cs" />
     <None Include="Program1.cs" />
   </ItemGroup>

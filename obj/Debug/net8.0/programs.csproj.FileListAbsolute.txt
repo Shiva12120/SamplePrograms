@@ -12,3 +12,4 @@ C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\refint\programs.d
 C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.pdb
 C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.genruntimeconfig.cache
 C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\ref\programs.dll
+C:\Users\Shiva\source\repos\programs\programs\obj\Debug\net8.0\programs.sourcelink.json
